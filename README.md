@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo peeps
+
+### here's my code ig
 
 <!--
 **Redst0neFlux/Redst0neFlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
